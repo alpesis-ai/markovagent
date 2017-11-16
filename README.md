@@ -61,7 +61,7 @@ print(mark.policy)
 ```
 
 
-## Modules
+## Instructions
 
 ```
     ./MarkovAgent
